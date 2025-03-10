@@ -123,7 +123,7 @@ function BHost() {
             </button>
           </Link>
 
-          {/* <button className="blue-btn" onClick={() => window.open("https://sessionize.com/CWS2025/", "_blank")}>Be a Speaker</button> */}
+          {/* <button className="blue-btn" onClick={() => window.open("https://www.eventbrite.com/e/cmmc-west-summit-2025-tickets-1268110355209?aff=oddtdtcreator", "_blank")}>Be a Speaker</button> */}
         </div>
       </div>
 
@@ -145,7 +145,7 @@ function BHost() {
             </div>
             <button
               className="blue-btn-2"
-              onClick={() => window.open("https://sessionize.com/CWS2025/", "_blank")}
+              onClick={() => window.open("https://www.eventbrite.com/e/cmmc-west-summit-2025-tickets-1268110355209?aff=oddtdtcreator", "_blank")}
             >
               Be a Sponsor
             </button>
@@ -164,7 +164,7 @@ function BHost() {
             </div>
             <button
               className="blue-btn-2"
-              onClick={() => window.open("https://sessionize.com/CWS2025/", "_blank")}
+              onClick={() => window.open("https://www.eventbrite.com/e/cmmc-west-summit-2025-tickets-1268110355209?aff=oddtdtcreator", "_blank")}
             >
               Be a Sponsor
             </button>
@@ -183,7 +183,7 @@ function BHost() {
             </div>
             <button
               className="blue-btn-2"
-              onClick={() => window.open("https://sessionize.com/CWS2025/", "_blank")}
+              onClick={() => window.open("https://www.eventbrite.com/e/cmmc-west-summit-2025-tickets-1268110355209?aff=oddtdtcreator", "_blank")}
             >
               Be a Sponsor
             </button>
@@ -199,4 +199,4 @@ function BHost() {
 export default BHost;
 
 
-// onClick={() => window.open("https://sessionize.com/CWS2025/", "_blank")}
+// onClick={() => window.open("https://www.eventbrite.com/e/cmmc-west-summit-2025-tickets-1268110355209?aff=oddtdtcreator", "_blank")}

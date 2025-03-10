@@ -24,7 +24,7 @@ function Navbar() {
         <li><Link to="/contact-us">About Us</Link></li>
       </ul>
 
-      <button className="regi-btn" onClick={() => window.open("https://www.eventbrite.com/e/example-event-registration", "_blank")}>
+      <button className="regi-btn" onClick={() => window.open("https://www.eventbrite.com/e/cmmc-west-summit-2025-tickets-1268110355209?aff=oddtdtcreator", "_blank")}>
   Register
 </button>
 
